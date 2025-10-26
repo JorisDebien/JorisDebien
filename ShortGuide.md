@@ -61,6 +61,7 @@ I'm always very eager to hear ideas, but I believe the best way to improve ideas
 - If I don't know, I can't respond or react. I don't care how you say something to me in a 1-on-1 setting. The only thing I care about is that you say it. I'd rather you scream at me in anger than not say anything at all.
 - If you don't have any topics, we can always talk about how you could share your knowledge to the rest of engineering, or how we can take the next step in your career.
 - Talk to me about your dreams and passions. Chances are that there's an opportunity lying in wait.
+<br>
 
 ---
 ## For Managers
@@ -68,4 +69,6 @@ I'm always very eager to hear ideas, but I believe the best way to improve ideas
 
 ## My Expectations
 - I have very high expectations of you, as I do of myself - sometimes too high. 
-- Integrity & fairness is extremely important to me.
+- I need to understand why & how decisions are made if I'm not involved in them. If I don't understand a decision, I will (and can) argue this for ages.
+- I'm a manager that has issues with management (I know, right?). Policy and process are great, but if I can't make an exception as a judgement call I will lose interest. 
+- To me, leadership is all about integrity, fairness, and empowering -all- people. This is extremely important to me. Seeing people treated unfairly is a trigger for me.
