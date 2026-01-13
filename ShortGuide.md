@@ -61,6 +61,14 @@ I'm always very eager to hear ideas, but I believe the best way to improve ideas
 - If I don't know, I can't respond or react. I don't care how you say something to me in a 1-on-1 setting. The only thing I care about is that you say it. I'd rather you scream at me in anger than not say anything at all.
 - If you don't have any topics, we can always talk about how you could share your knowledge to the rest of engineering, or how we can take the next step in your career.
 - Talk to me about your dreams and passions. Chances are that there's an opportunity lying in wait.
+
+### Time off
+
+- Take your days off when and how you see fit. When you take time off, I will assume you've done the following:
+  - You've transferred enough knowledge and skillset to other people in the team to (temporarily) take over your responsibilities.
+  - You've made sure to let them know of anything that urgently needs to be adressed.
+  - You've done the above well in advance.
+- If you've done the above, I function as an expensive auto-approver. If not, we'll have a chat. 
 <br>
 
 ---
